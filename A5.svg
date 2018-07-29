@@ -1,0 +1,56 @@
+<svg xmlns='http://www.w3.org/2000/svg' version='1.1' width='160.0' height='150.0'>
+<style type="text/css"><![CDATA[
+    .finger { 
+        stroke: black; fill:  black; stroke-width: 1;
+    }
+    .string { 
+        stroke: black; stroke-width: 0.6; 
+    }
+    .fret { 
+        stroke: black; stroke-width: 0.6; 
+    }
+    .cut { 
+        stroke: black; stroke-width: 0.6; fill: none;
+    }
+    .barre { 
+        fill:none; stroke:black; stroke-width: 2.0; 
+    }
+    .nut { 
+        stroke: black; stroke-width: 2; 
+    }
+    .chordname { 
+        fill: red; font-size: 24.0px; 
+    }
+    .fretmark { 
+        fill: black; font-style: italic; font-size: 24; 
+    }
+    .dot {
+        font-size: 24.0px; fill: black; font-style: italic; 
+    }
+    .unplayed {  
+        fill:black; font-size:24.0px; 
+    }
+  ]]></style>
+<text class='chordname' x='20.0' y='20.0'>A5</text>
+<text class='dot' x='115.0' y='140.0'>5fr</text>
+<text class='unplayed' x='7.5' y='34.0'>x</text>
+<text class='unplayed' x='27.5' y='34.0'>o</text>
+<text class='unplayed' x='87.5' y='34.0'>x</text>
+<text class='unplayed' x='107.5' y='34.0'>x</text>
+<circle class='finger' cx='50.0' cy='68.0' r='4.0'/>
+<circle class='finger' cx='70.0' cy='68.0' r='4.0'/>
+<line class='nut' x1='10.0' y1='38.0' x2='110.0' y2='38.0'/>
+<line class='fret' x1='10.0' y1='38.0' x2='110.0' y2='38.0'/>
+<line class='fret' x1='10.0' y1='58.0' x2='110.0' y2='58.0'/>
+<line class='fret' x1='10.0' y1='78.0' x2='110.0' y2='78.0'/>
+<line class='fret' x1='10.0' y1='98.0' x2='110.0' y2='98.0'/>
+<line class='fret' x1='10.0' y1='118.0' x2='110.0' y2='118.0'/>
+<line class='fret' x1='10.0' y1='138.0' x2='110.0' y2='138.0'/>
+<line class='string' x1='10.0'  y1='38.0' x2='10.0'  y2='138.0'/>
+<line class='string' x1='30.0'  y1='38.0' x2='30.0'  y2='138.0'/>
+<line class='string' x1='50.0'  y1='38.0' x2='50.0'  y2='138.0'/>
+<line class='string' x1='70.0'  y1='38.0' x2='70.0'  y2='138.0'/>
+<line class='string' x1='90.0'  y1='38.0' x2='90.0'  y2='138.0'/>
+<line class='string' x1='110.0'  y1='38.0' x2='110.0'  y2='138.0'/>
+
+</svg>
